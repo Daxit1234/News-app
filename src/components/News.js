@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Newsitem from "./Newsitem";
-
+import Marquee from "react-fast-marquee";
 export class News extends Component {
   articals = [
     {
@@ -132,27 +132,31 @@ export class News extends Component {
     let url="https://newsapi.org/v2/top-headlines?country=in&apiKey=bf88de657d0640ba95a6091aee70a77a";
     let data=await fetch(url);
     let parseData=await data.json();
-    console.log(parseData)
+    this.setState({articals:parseData.articles})
+    console.log(parseData.articles)
   }
   render() {
     return (
+      <>
+       <h1> <Marquee speed={500}>Top Leatest Breaking News</Marquee></h1>
       <div className="container my-3">
-        <h1>newsMonkey -Top Headlines</h1>
         <div className="row">
           {this.state.articals.map((element) => {
             return (
               <div className="col-md-4" key={element.url}>
                 <Newsitem
-                  title={element.title.slice(0,45)}
-                  discription={element.description.slice(0,88)}
+                  title={element.title}
+                  discription={element.description}
                   imgurl={element.urlToImage}
                   newsurl={element.url}
+                  date={element.publishedAt.slice(0,10)}
                 />
               </div>
             );
           })}
         </div>
       </div>
+      </>
     );
   }
 }

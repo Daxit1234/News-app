@@ -1,26 +1,196 @@
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 38,
   "articles": [
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
-      "author": null,
-      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-      "publishedAt": "2020-04-27T11:41:47Z",
-      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      "source": { "id": null, "name": "News18" },
+      "author": "Entertainment Bureau",
+      "title": "Entertainment News LIVE Updates: After Pathaan, SRK Fans Wait for Jawan; Sidharth Teases Announcement Ahead - News18",
+      "description": "Entertainment News LIVE Updates: SRK's Pathaan has been watched by more than 1.15 crore people in just four days. Sidharth Malhotra teases bold announcement amid wedding rumours with Kiara Advani.",
+      "url": "https://www.news18.com/news/movies/entertainment-news-live-updates-shah-rukh-khan-pathaan-rakhi-sawant-kl-rahul-athiya-shetty-rashmika-mandanna-kangana-ranaut-lollapalooza-jackson-wang-livenews-6941779.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/01/shah-rukh-khan-sidharth-kiara-167498323116x9.jpg",
+      "publishedAt": "2023-01-29T10:31:06Z",
+      "content": "Sidharth Malhotra, who is rumoured to be getting married to Kiara Advani in February, took to social media to share that he has a ‘bold announcement’ coming up.\r\nMeanwhile, amid Pathaan’s success, Ka… [+1317 chars]"
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Vitamin B12 deficiency: 6 ways your body tells you to get tested - Times of India",
+      "description": "Vitamins and minerals play a crucial role in maintaining our overall health. Among a wide range of nutrients, vitamin B12 is extremely essential. It not only helps in the formation of red blood cells and DNA, but also supports our nervous system and boosts br…",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/vitamin-b12-deficiency-6-ways-your-body-tells-you-to-get-tested/photostory/97413522.cms",
+      "urlToImage": "https://static.toiimg.com/photo/97413682.cms",
+      "publishedAt": "2023-01-29T10:30:00Z",
+      "content": "Have you heard of glossitis? If not, it is a condition that leads to inflammation in the mouth and leaves your tongue swollen and inflamed. This condition is associated with vitamin B12 deficiency. A… [+455 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
       "author": null,
-      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-      "publishedAt": "2020-03-30T15:26:05Z",
-      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      "title": "Cop Who Shot Odisha Health Minister Naba Kisore Das Taken Into Custody, Probe On: 5 Facts - NDTV",
+      "description": "Naba Kisore Das, the health minister of Odisha, was critically injured after being shot at by an assistant sub-inspector in Jharsuguda district earlier today.",
+      "url": "https://www.ndtv.com/india-news/naba-kisore-das-cop-who-shot-odisha-health-minister-taken-into-custody-probe-on-5-facts-3733284",
+      "urlToImage": "https://c.ndtvimg.com/2023-01/77sgu8a8_odisha-minister_625x300_29_January_23.jpg",
+      "publishedAt": "2023-01-29T10:26:00Z",
+      "content": "<li>Witnesses claim the sub-inspector fired at Naba Kisore Das from a close range just as he stepped out of his vehicle to attend an event at Brajarajnagar's Gandhi Chowk. \r\n</li><li>A video shows th… [+798 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "NDTV Sports Desk",
+      "title": "Novak Djokovic vs Stefanos Tsitsipas Australian Open 2023 Final LIVE Updates: Djokovic, Tsitsipas Keep 2nd Set Neck-To-Neck - NDTV Sports",
+      "description": "Novak Djokovic vs Stefanos Tsitsipas Australian Open 2023 Final LIVE: Novak Djokovic has set sight on 22nd Grand Slam title.",
+      "url": "https://sports.ndtv.com/australian-open-2023/australian-open-2023-final-novak-djokovic-vs-stefanos-tsitsipas-live-updates-3733052",
+      "urlToImage": "https://c.ndtvimg.com/2023-01/qeh6efhg_djokovic-vs-tsitsipas-afp_625x300_29_January_23.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2023-01-29T10:22:36Z",
+      "content": "Novak Djokovic vs Stefanos Tsitsipas Australian Open 2023 Men's Singles Final Live: Novak Djokovic broke Stefanos Tsitsipas early in the first set to assert his dominance. The Serbian star remained t… [+668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT News Desk, hindustantimes.com",
+      "title": "LIVE: Kolkata-bound AirAsia flight makes emergency landing in Lucknow - Hindustan Times",
+      "description": "Breaking news live updates January 29, 2023: Get latest news, breaking news, latest updates, live news, top headlines, breaking business news and top news of the hour.",
+      "url": "https://www.hindustantimes.com/india-news/breaking-news-live-updates-january-29-2023-india-news-world-latest-news-trending-101674950463714.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2023/01/29/1600x900/breaking_news_latest_1674951344905_1674951345196_1674951345196.jpeg",
+      "publishedAt": "2023-01-29T09:13:41Z",
+      "content": "Police detains two people in connection with 'pro-Khalistan graffiti' that appeared in parts of West Delhi, reports ANI\r\nThe Delhi police has detained two people in connection with pro-Khalistan rela… [+103 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "More than 50 die in two Pakistan accidents - BBC",
+      "description": "A bus fell into a ravine in the south-west, while 10 children died when a boat capsized in the north-west.",
+      "url": "https://www.bbc.com/news/world-asia-64444058",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AD11/production/_128450344_gettyimages-1246636088.jpg",
+      "publishedAt": "2023-01-29T09:11:13Z",
+      "content": "More than 50 people have been killed in two separate travel-related accidents in Pakistan on Sunday. \r\nAt least 41 people died when a bus fell into a ravine and caught fire in the south-west, while i… [+1494 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Crictracker.com" },
+      "author": "CricTracker Staff",
+      "title": "IND vs NZ Match Prediction - Who will win today's 2nd T20I match between India vs New Zealand? - CricTracker",
+      "description": "India (IND) and New Zealand (NZ) will square off for the second of the three T20Is at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium in Lucknow. The Men in Blue were handed a 21-run",
+      "url": "https://www.crictracker.com/cricket-match-predictions/ind-vs-nz-match-prediction-who-will-win-todays-2nd-t20i-match-between-india-vs-new-zealand/",
+      "urlToImage": "https://media.crictracker.com/media/attachments/1674898120447_hardik-Pandya-and-Indian-Cricket-Team.jpeg",
+      "publishedAt": "2023-01-29T08:45:00Z",
+      "content": "India (IND) and New Zealand (NZ) will square off for the second of the three T20Is at the Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium in Lucknow. The Men in Blue were handed a 21-run… [+2581 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Indian Express" },
+      "author": "Express News Service",
+      "title": "Weeks after ‘RSS agenda’ jibe, Congress U-turn: Why it hoisted Tricolour at Lal Chowk - The Indian Express",
+      "description": "Jairam Ramesh says J&K administration on Saturday evening permitted Rahul Gandhi to unfurl the national flag at the central square in Srinagar “but under condition that it should be done today on 29th”.",
+      "url": "https://indianexpress.com/article/political-pulse/rahul-gandhi-lal-chowk-tricolour-jammu-kashmir-congress-u-turn-8410714/",
+      "urlToImage": "https://images.indianexpress.com/2023/01/rahul-gandhi-inc-manipur.jpeg",
+      "publishedAt": "2023-01-29T08:13:56Z",
+      "content": "Weeks after the Congress said that Rahul Gandhi would hoist the Tricolour at its state headquarters in Srinagar on January 30 and not the Lal Chowk as unfurling it at the square was part of the RSS a… [+2766 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "Moneycontrol News",
+      "title": "Budget 2023 Expectations LIVE Updates: Already announced CPSEs to be privatized in the next fiscal by the... - Moneycontrol",
+      "description": "Budget 2023 Expectations LIVE Updates: The Finance Ministry will proceed with the planned privatisation that has already been announced. The chances of the new addition to that list of CPSEs in the Budget for 2023-24 is unlikely, sources said.",
+      "url": "https://www.moneycontrol.com/news/business/budget/budget-live-union-budget-2023-nirmala-sitharaman-india-expectations-economy-tax-cuts-9955311.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/01/Budget-2023-1-1-770x433.jpg",
+      "publishedAt": "2023-01-29T07:42:17Z",
+      "content": "January 29, 2023 / 10:16 AM IST\r\nAnalysts ahead of Union Budget: Apurva Sheth, Head of Market Perspectives &amp; Research, SAMCO SecuritiesThe Nifty ended the truncated trading week 2.35 percent down… [+911 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Vijaya Tiwari",
+      "title": "Exclusive - Rakhi Sawant’s brother Rakesh on their mom’s demise: Everyone is calling and giving their con - Indiatimes.com",
+      "description": "Rakhi Sawant’s mother Jaya Bheda passed away last night and the actress is bereaved. Jaya Bheda, 73, passed away ar",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-rakhi-sawants-brother-rakesh-on-their-moms-demise-everyone-is-calling-and-giving-their-condolences-salman-sir-also-spoke-to-rakhi/articleshow/97414531.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-97414557,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-1611131/97414557.jpg",
+      "publishedAt": "2023-01-29T07:39:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Livemint" },
+      "author": "Pooja Sitaram Jaiswar",
+      "title": "Will Adani stocks escape bears this week? ₹20,000 cr FPO, Hindenburg case in focus | Mint - Mint",
+      "description": "Adani's FPO alongside its actions against Hindenburg are some of the key factors that will influence its listed stocks on market bourses in the week ahead.",
+      "url": "https://www.livemint.com/market/stock-market-news/will-adani-stocks-escape-bears-this-week-rs-20-000-cr-fpo-hindenburg-case-in-focus-11674976465881.html",
+      "urlToImage": "https://images.livemint.com/img/2023/01/29/600x338/ADANI_1674898897615_1674977723793_1674977723793.JPG",
+      "publishedAt": "2023-01-29T07:36:36Z",
+      "content": "The overwrought selling in Adani stocks last week dragged the broader market. January 27th turned into a black Friday for the billionaire Gautam Adani-backed group's seven listed stocks, which were b… [+6730 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Greater Kashmir" },
+      "author": "GK Web Desk",
+      "title": "Rahul Gandhi hoists national flag at Srinagar's Lal Chowk - Greater Kashmir",
+      "description": null,
+      "url": "https://www.greaterkashmir.com/kashmir/rahul-gandhi-hoists-national-flag-at-srinagars-lal-chowk",
+      "urlToImage": "https://gumlet.assettype.com/greaterkashmir%2F2023-01%2F4ee0a397-3b94-43b7-8a85-6d2042bbc8c6%2F014B24DD_2951_441D_96A4_05EDE19CD95C.jpeg?rect=0%2C301%2C1552%2C815&w=1200&auto=format%2Ccompress&ogImage=true&enlarge=true",
+      "publishedAt": "2023-01-29T07:28:01Z",
+      "content": "As per the news agencyKashmir News Observer (KNO) Rahul Gandhi hoisted the flag in presence of a large gathering.\r\nEarlier, Rahul Gandhi resumed the Yatra from Pantha Chowk area towards Lal Chowk alo… [+88 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Google's New AI Tool Can Generate Music From Text Descriptions - NDTV",
+      "description": "A new Artificial Intelligence (AI) system from Google can now generate music in any genre from text prompts, and can even transform a whistled or hummed melody into other instruments.",
+      "url": "https://www.ndtv.com/feature/googles-new-ai-tool-can-generate-music-from-text-descriptions-3732992",
+      "urlToImage": "https://c.ndtvimg.com/2018-10/dl56ce8_google-generic-reuters_625x300_08_October_18.jpg",
+      "publishedAt": "2023-01-29T05:44:00Z",
+      "content": "MusicLM is a text-to-music generation system.\r\nA new Artificial Intelligence (AI) tool from Google can now generate music in any genre from text prompts, and can even transform a whistled or hummed m… [+3637 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Bowel cancer: When you should stop confusing it with 'hemorrhoids'; here's how to tell the difference - Indiatimes.com",
+      "description": "One of the most potential reasons why people mistake bowel cancer with hemorrhoids is that the symptoms in both the cases overlap with each other. Rectal bleeding and lumps in the anal region are common to both the diseases.  The fact that hemorrhoids are mor…",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/bowel-cancer-when-you-should-stop-confusing-it-with-hemorrhoids-heres-how-to-tell-the-difference/photostory/97401375.cms",
+      "urlToImage": "https://static.toiimg.com/photo/97401387.cms",
+      "publishedAt": "2023-01-29T05:30:00Z",
+      "content": "Hemorrhoids are swollen veins inside the anus. When these veins are irritated, either due to constipation or hard stool, they tear and bleed. Sometimes these swollen veins itch too.\r\nCancer is when t… [+373 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Moneycontrol" },
+      "author": "PTI",
+      "title": "Budget 2023: Finance Ministry to stick to privatisation of already announced CPSEs next fiscal - Moneycontrol",
+      "description": "The disinvestment target outlined in the Budget for the next fiscal is likely to be a scaled-down and realistic one, as the budgeted PSU sell-off target is going to be missed for the fourth year in a row this fiscal.",
+      "url": "https://www.moneycontrol.com/news/business/budget/budget-2023-finance-ministry-to-stick-to-privatisation-of-already-announced-cpses-next-fiscal-9955761.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/11/finance-ministry-north-block-770x433.jpg",
+      "publishedAt": "2023-01-29T05:18:23Z",
+      "content": "The Finance Ministry will move ahead with the already-announced and planned privatisation of state-owned companies in the next fiscal, and the chances of the new addition to that list of CPSEs in the… [+3133 chars]"
+    },
+    {
+      "source": { "id": null, "name": "News18" },
+      "author": "News Desk",
+      "title": "'Mughlai Paratha' Next? Oppn Attacks Govt Over Renaming Iconic Mughal Gardens, BJP Defends Move - News18",
+      "description": "TMC Rajya Sabha MP Jawhar Sircar on Sunday posted a sarcastic tweet, saying: 'Waiting for Mughlai Paratha to be renamed Swarga Lok or Indra Lok Paratha'",
+      "url": "https://www.news18.com/news/politics/delhi-mughal-gardens-renamed-amrit-udyan-bjp-congress-tmc-war-of-words-6942781.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/01/delhi-mughal-gardens-renamed-amrit-udyan-rashtrapati-bhavan-bjp-congress-167497322616x9.jpg",
+      "publishedAt": "2023-01-29T05:11:00Z",
+      "content": "Centre seems to be unbothered by Oppositions attack over renaming of Delhis iconic Mughal Gardens as sign board of Amrit Udyan have been brought in and placed outside Rashtrapati Bhavan, as part of a… [+3237 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "For Karan Johar, Shah Rukh Khan's Pathaan Has \"Killed\" All The \"Myths\" About Bollywood - NDTV",
+      "description": "Karan Johar has shared another post praising the action thriller",
+      "url": "https://www.ndtv.com/entertainment/karan-johar-says-pathaan-has-killed-all-the-myths-about-bollywood-3732895",
+      "urlToImage": "https://c.ndtvimg.com/2023-01/1rs3u8v_kjo_625x300_29_January_23.jpg",
+      "publishedAt": "2023-01-29T05:04:10Z",
+      "content": "Karan Johar shared this picture. (courtesy: karanjohar)\r\nKaran Johar like many other Indian film lovers cannot stop gushing about Pathaan. The spy thriller headlined by Shah Rukh Khan has taken the n… [+2485 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gadgets Now" },
+      "author": "Gadgets Now Bureau",
+      "title": "Samsung Galaxy S23 smartphone series: Key specs, design, and likely price - Gadgets Now",
+      "description": "Samsung’s much anticipated high-end smartphones for 2023 – the Galaxy S23 series – are soon set to break the cover on February 1. There has been a lot of talk going around the Galaxy S23 series on the internet. We have put together every rumour about the Gala…",
+      "url": "https://www.gadgetsnow.com/slideshows/samsung-galaxy-s23-smartphone-series-key-specs-design-and-likely-price/photolist/97412038.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-97412061,width-800,resizemode-4,imgsize-262321/share.jpg",
+      "publishedAt": "2023-01-29T04:56:00Z",
+      "content": "Like the past few years, the Galaxy S23 series will consist of three models Galaxy S23, Galaxy S23+, and Galaxy S23 Ultra. The Galaxy S23 and Galaxy S23+ will have similar specifications, except the … [+244 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Adani Group Rules Out Changes In Price, Dates Of Sale Of New Shares - NDTV Profit",
+      "description": "Billionaire Gautam Adani's group on Saturday ruled out any changes in price or the dates of the Rs 20,000 crore follow-on share sale at the conglomerate's flagship firm despite its stocks being hammered below the offer price after a scathing report by a US sh…",
+      "url": "https://www.ndtv.com/business/adani-group-rules-out-changes-in-price-dates-of-sale-of-new-shares-3732924",
+      "urlToImage": "https://c.ndtvimg.com/2023-01/n1jbq8no_adani-enterprises_625x300_18_January_23.jpg",
+      "publishedAt": "2023-01-29T04:55:17Z",
+      "content": "Adani Enterprises is selling shares in a price band of Rs 3,112 to Rs 3,276.\r\nNew Delhi: Billionaire Gautam Adani's group on Saturday ruled out any changes in price or the dates of the Rs 20,000 cror… [+2996 chars]"
     }
   ]
 }
