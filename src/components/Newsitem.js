@@ -21,7 +21,6 @@ export class Newsitem extends Component {
               {title}{" "}
               <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
                 {source}
-                <span class="visually-hidden">unread messages</span>
               </span>
             </h5>
             <p className="card-text">
@@ -33,11 +32,11 @@ export class Newsitem extends Component {
               By {author ? author : "unknow author"} <br /> on{" "}
               {new Date(date).toGMTString()}.
             </p>
-            <a href={newsurl} className="btn btn-sm btn-dark">
-              Read MOre
-            </a>
           </div>
         </div>
+            <a href={newsurl} className="btn btn-sm btn-dark">
+              Read More
+            </a>
       </div>
     );
   }

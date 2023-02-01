@@ -14,13 +14,17 @@ export class News extends Component {
     pagesize: PropTypes.number,
     category: PropTypes.string,
   }
-  constructor() {
-    super();
+  capital=(string)=>{
+    return string.charAt(0).toUpperCase()+string.slice(1)
+  }
+  constructor(props) {
+    super(props);
     this.state = {
       articals: [],
       loading: false,
       page: 1,
     };
+    document.title=`News Monkey ${this.capital(this.props.category)}`
   }
   async updatenews() {
     const url = `https://newsapi.org/v2/top-headlines?counrty=${this.props.country}&category=${this.props.category}&language=en&apiKey=bf88de657d0640ba95a6091aee70a77a&page=${this.state.page}&pagesize=${this.props.pagesize}`;
@@ -32,6 +36,7 @@ export class News extends Component {
       totalResults: parseData.totalResults,
       loading: false
     });
+   
     console.log(url);
   }
   async componentDidMount() {
@@ -85,7 +90,7 @@ export class News extends Component {
     return (
       <>
         <h1 className="bg-success">
-          <Marquee speed={500}>Top Leatest Breaking News</Marquee>
+          <Marquee speed={500}>Top  {this.capital(this.props.category)} Breaking News</Marquee>
         </h1>
         {
           this.state.loading &&
