@@ -7,6 +7,11 @@ export class Newsitem extends Component {
     return (
       <div className="my-3">
         <div className="card">
+          <div style={{diplay:"flex",justifyContent:'flex-end',position:'absolute',right:'0'}}>
+          <span className="badge rounded-pill bg-danger">
+                {source}
+              </span>
+          </div>
           <img
             src={
               imgurl
@@ -17,12 +22,7 @@ export class Newsitem extends Component {
             alt="..."
           />
           <div className="card-body">
-            <h5 className="card-title">
-              {title}{" "}
-              <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
-                {source}
-              </span>
-            </h5>
+            <h5 className="card-title">{title}</h5>
             <p className="card-text">
               {discription
                 ? discription
