@@ -1,9 +1,12 @@
-import React, { Component } from "react";
-
-export class Newsitem extends Component {
-  render() {
-    const { title, discription, imgurl, newsurl, source, date, author } =
-      this.props;
+import "./Newsitem.css"
+const Newsitem=(props)=>{
+    const { title, discription, imgurl, newsurl, source, date, author } =props;
+    const des={
+      height:'6rem',
+    }
+    const head={
+      height:"3rem"
+    }
     return (
       <div className="my-3">
         <div className="card">
@@ -22,8 +25,8 @@ export class Newsitem extends Component {
             alt="..."
           />
           <div className="card-body">
-            <h5 className="card-title">{title}</h5>
-            <p className="card-text">
+            <h5 className="card-title overflow-auto" style={head}>{title}</h5>
+            <p className="card-text overflow-auto" style={des}>
               {discription
                 ? discription
                 : "------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"}
@@ -40,6 +43,5 @@ export class Newsitem extends Component {
       </div>
     );
   }
-}
 
 export default Newsitem;
