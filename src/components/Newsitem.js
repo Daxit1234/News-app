@@ -8,7 +8,9 @@ const Newsitem=(props)=>{
       height:"3rem"
     }
     return (
-      <div className="my-3">
+      <div className="my-3" style={{'&::-webkit-scrollbar': {
+        display:'none'
+    }}}>
         <div className="card">
           <div style={{diplay:"flex",justifyContent:'flex-end',position:'absolute',right:'0'}}>
           <span className="badge rounded-pill bg-danger">
